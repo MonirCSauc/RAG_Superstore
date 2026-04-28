@@ -1,0 +1,8 @@
+# Default ignored files
+/../../RAG_Superstore /.idea/shelf/
+/../../RAG_Superstore /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../RAG_Superstore /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../RAG_Superstore /.idea/dataSources/
+/../../RAG_Superstore /.idea/dataSources.local.xml

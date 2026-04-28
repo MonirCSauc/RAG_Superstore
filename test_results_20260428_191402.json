@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the sales trend over the 4-year period?",
+    "answer": "Total sales from 2014 to 2017:\n- 2014: 484247.50\n- 2015: 470532.51\n- 2016: 609205.60\n- 2017: 733215.26\n\nTotal profit from 2014 to 2017:\n- 2014: 49543.97\n- 2015: 61618.60\n- 2016: 81795.17\n- 2017: 93439.27\n\nThere is no sales trend over the 3-year period of West region from the available data."
+  },
+  {
+    "question": "Which months show the highest sales? Is there seasonality?",
+    "answer": "The available data does not cover this."
+  },
+  {
+    "question": "How has profit margin changed over time?",
+    "answer": "The available data does not cover this."
+  },
+  {
+    "question": "Which product category generates the most revenue?",
+    "answer": "Technology\n836154.03"
+  },
+  {
+    "question": "What sub-categories have the highest profit margins?",
+    "answer": "0.4442, 0.4339, 0.4227, 0.2407, 0.1687, 0.2505, 0.1424 \n\nPaper (0.4339), Binders (0.1486), Envelopes (0.4227), Appliances (0.1687), Accessories (0.2505), Art (0.2407)"
+  },
+  {
+    "question": "Which products are frequently sold at a discount?",
+    "answer": "1. 'Bretford Rectangular Conference Table Tops' (10 orders)\n2. 'Situations Contoured Folding Chairs, 4/Set' (12 orders)\n3. 'Staples' (23 orders)\n4. 'Wilson Jones Leather-Like Binders with DublLock Round Rings' (10 orders)\n5. 'Staple envelope' (18 orders)\n6. 'Storex Dura Pro Binders' (13 orders)\n7. 'Easy-staple paper' (14 orders)\n8. 'Avery Non-Stick Binders' (17 orders)\n9. 'KI Adjustable-Height Table' (11 orders)\n10. 'Global High-Back Leather Tilter, Burgundy' (11 orders)"
+  },
+  {
+    "question": "Which region has the best sales performance?",
+    "answer": "West region ($725457.82) > East region ($678781.24) > South region ($391721.91) \nThe available data does not cover this."
+  },
+  {
+    "question": "Compare sales performance across different states.",
+    "answer": "1. New York - $310876.27\n2. Delaware - $27451.07\n3. Indiana - $53555.36\n4. Massachusetts - $28634.43\n5. California - $457687.63\n6. Washington - $138641.27\n7. Arkansas - $11678.13\n\nTop 3 states by sales:\n\n1. California - $457687.63\n2. New York - $310876.27\n3. Indiana - $53555.36"
+  },
+  {
+    "question": "Which cities are the top performers?",
+    "answer": "The top three cities with the highest total sales are:\n\n1. New York City (256368.16)\n2. Los Angeles (175851.34)\n3. San Francisco (112669.09)"
+  },
+  {
+    "question": "Compare Technology vs. Furniture sales trends.",
+    "answer": "2016: \n- Total sales of Technology category: $271730.81\n- Total sales of Furniture category: $198901.44\n\n2015: \n- Total sales of Technology category: Not available\n- Total sales of Furniture category: $170518.24\n\n2014: \n- Total sales of Technology category: $175278.23\n- Total sales of Furniture category: $157192.85\n\n2017: \n- Total sales of Technology category: $271730.81\n- Total sales of Furniture category: $215387.27"
+  },
+  {
+    "question": "How does the West region compare to the East in terms of profit?",
+    "answer": "725457.82 vs 678781.24"
+  }
+]
