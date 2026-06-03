@@ -1,4 +1,4 @@
-````markdown
+
 # RAG Superstore Sales Analyst
 
 ## 📌 Project Overview
