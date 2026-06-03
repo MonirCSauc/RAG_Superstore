@@ -394,24 +394,8 @@ How does the West region compare to the East in terms of profit?
 * The dependency file name is misspelled as `requierments.txt`.
 * The project currently runs through the command line and does not include a web interface.
 
-## 🔮 Future Improvements
-
-Possible improvements include:
-
-* Rename `requierments.txt` to `requirements.txt`
-* Add a Streamlit or Flask web interface
-* Add direct Pandas calculations for exact numerical answers
-* Improve query routing and metadata filtering
-* Add source citations in the generated answers
-* Add evaluation metrics for answer correctness
-* Add more robust prompts to reduce hallucinations
-* Add hybrid search combining vector search and keyword search
-* Add charts and visualizations for trend questions
-* Add support for uploading new datasets
 
 ## 👥 Authors
 
 * Ahmed M. Monir
 
-```
-```
